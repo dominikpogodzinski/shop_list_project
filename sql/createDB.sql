@@ -1,0 +1,1 @@
+CREATE DATABASE shop_list_test;
